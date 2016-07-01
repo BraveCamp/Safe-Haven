@@ -1,0 +1,26 @@
+
+
+h1 {
+color: black;
+    	font-size: 40px;
+}
+
+
+p {
+font-family: "Gill Sans";
+font-size: 16px;
+}
+
+ul {
+font-size: 18px;
+}
+
+.col-md-5,.col-md-7 {
+	width: 100%
+}
+
+a {
+	color: #0000ff;
+  		font-family: "Helvetica Neue";
+    	font-size: 14px;
+    	}

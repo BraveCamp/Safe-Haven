@@ -1,0 +1,40 @@
+body {
+    background-color: #f5f5f5;
+}
+
+
+h1 {
+    padding-top: 1cm;
+
+    color: #00953a;
+}
+
+
+h2 {
+	 color: #00953a;
+}
+
+
+h3 {
+	color: #00953a;
+}
+
+
+<small> {
+	color: 823794;
+}
+
+
+form {
+	padding-bottom: .5cm;
+}
+
+
+img {
+	padding-right: .5cm;
+}
+
+
+.col-md-5,.col-md-7 {
+	width: 100%
+}
